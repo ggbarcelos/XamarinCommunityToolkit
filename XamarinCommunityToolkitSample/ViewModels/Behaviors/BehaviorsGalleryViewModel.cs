@@ -14,6 +14,11 @@ namespace Xamarin.CommunityToolkit.Sample.ViewModels.Behaviors
 				AppResources.EmailValidationShortDescription
 			),
 			new SectionModel(
+				typeof(UriValidationBehaviorPage),
+				"UriValidationBehavior",
+				AppResources.UriValidationShortDescription
+			),
+			new SectionModel(
 				typeof(EventToCommandBehaviorPage),
 				"EventToCommandBehavior",
 				AppResources.EventToCommandShortDescription

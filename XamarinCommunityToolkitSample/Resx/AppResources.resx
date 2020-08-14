@@ -118,7 +118,16 @@
           <data name="EmailValidationShortDescription" xml:space="preserve">
               <value>Changes an Entry's text color when an invalid e-mail address is provided.</value>
           </data>
+
+          <!--Uri Validation-->
+
+          <data name="UriValidationDescription" xml:space="preserve">
+              <value>Text color will change accordingly to the style that is configured when a invalid value (URI) is entered.</value>
+          </data>
   
+          <data name="UriValidationShortDescription" xml:space="preserve">
+              <value>Changes an Entry's text color when an invalid URI is provided.</value>
+          </data>
   
          <!--Event To Command-->
   
